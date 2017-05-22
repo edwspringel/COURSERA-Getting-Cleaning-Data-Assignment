@@ -2,12 +2,18 @@
 CODE BOOK 
 
 -To decribe the Rows (Observations) and the Columns (Measurements) 
-  in the tidyDataSet.csv product of the R-script.
+  in the SamsungTidyDataSet.txt product of the R-script.
   
   
 OBSERVATIONS/ROWS:
 subject- there are 30 subjects
-activity- each subject engaged in 6 activities
+activity- each subject engaged in 6 activities:
+1. Walking
+2. Walking Updstairs
+3. Walking Downstairs
+4. Sitting
+5. Standing
+6. Laying
 
 Data below are collected for each of the 30 subjects as they participated in 
 6 activities (so theres 6 rows per subject)
